@@ -1,3 +1,1 @@
-# ML24
-
-Machine Learning homework
+# Machine Learning course 2024
